@@ -12,6 +12,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+html {
+  cursor: url("../public/paw.png"), auto;
+}
 
 a {
   font-weight: 500;
